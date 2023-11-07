@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Dec 30 13:48:31 2022
-
+Simple test of tkinter package and GUIs
 @author: Jonas
 """
 
